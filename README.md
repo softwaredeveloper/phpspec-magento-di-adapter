@@ -20,7 +20,7 @@ Reasons why not to use `ObjectManager` in PHPSpec examples:
 * SearchResults
 
 ## Installation
-
+# [Freelance Magento Developer](https://www.phpfreelanceprogrammer.com/magento-programmer.html)
 1. Install via composer
 
     ```bash
